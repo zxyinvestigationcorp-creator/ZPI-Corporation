@@ -9,8 +9,8 @@
 </head>
 <body>
     <h1>Welcome to ZPI Corporation!
-    <p>We Protect What Matters Most. .</p>
-    <p>I'm learning / building / creating things.</p>
+    <p>We Protect What Matters Most.</p>
+    <p>Zenith. Protection. Innovation.</p>
     
     <p>
         <a href="https://twitter.com/yourhandle" style="color: #1da1f2;">Twitter</a> • 
