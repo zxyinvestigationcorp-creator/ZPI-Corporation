@@ -1,1 +1,20 @@
-# ZPI-Corporation
+<!DOCTYPE html>
+<html>
+<head>
+    <title>My Personal Website</title>
+    <style>
+        body { font-family: Arial; text-align: center; padding: 50px; background: #0f0f0f; color: white; }
+        h1 { font-size: 3em; }
+    </style>
+</head>
+<body>
+    <h1>Hi, I'm [Your Name]</h1>
+    <p>Welcome to my corner of the internet.</p>
+    <p>I'm learning / building / creating things.</p>
+    
+    <p>
+        <a href="https://twitter.com/yourhandle" style="color: #1da1f2;">Twitter</a> • 
+        <a href="https://github.com/yourusername" style="color: #fff;">GitHub</a>
+    </p>
+</body>
+</html>
