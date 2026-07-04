@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>My Personal Website</title>
+    <title>Zxy's Private Investigation Corporation</title>
     <style>
         body { font-family: Arial; text-align: center; padding: 50px; background: #0f0f0f; color: white; }
         h1 { font-size: 3em; }
