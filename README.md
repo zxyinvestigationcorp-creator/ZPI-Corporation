@@ -22,7 +22,7 @@
             padding: 40px 20px;
         }
         h1 {
-            font-size: 3.8rem;
+            font-size: 3.5rem;
             margin: 0 0 10px 0;
             background: linear-gradient(to right, #00ffcc, #00ccff);
             -webkit-background-clip: text;
@@ -54,32 +54,25 @@
             color: #0f0f23;
             transform: translateY(-3px);
         }
-        .photo {
-            width: 160px;
-            height: 160px;
-            border-radius: 50%;
-            border: 5px solid #00ccff;
-            margin-bottom: 30px;
-            object-fit: cover;
-        }
     </style>
 </head>
 <body>
     <div class="container">
-        <!-- Add your photo here later (optional) -->
-        <!-- <img src="https://your-photo-link.jpg" alt="Your Name" class="photo"> -->
-
         <h1>Welcome To Our Corporation!</h1>
         <p class="tagline">We Protect What Matters Most.</p>
         
         <p>
-           Zxy's Private Investigation Corporation
+            <strong>Zxy's Private Investigation Corporation</strong><br>
             Zenith. Protection. Innovation.
         </p>
 
         <div class="links">
             <a href="https://github.com/ZPI-Corporation" target="_blank">GitHub</a>
-            <a href="mailto:zxyinvestigation@gmail.com">Email Me</a>
+            <a href="mailto:zxyinvestigation@gmail.com" target="_blank">Email Me</a>
+        </div>
+    </div>
+</body>
+</html>
         </div>
     </div>
 </body>
